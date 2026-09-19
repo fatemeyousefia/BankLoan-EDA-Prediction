@@ -122,7 +122,7 @@ Potential next steps include:
 
 ```text
 BankLoan-EDA-Prediction/
-├── notebook/
+├── Notebook/
 │   └── BankLoan-EDA-Prediction.ipynb
 ├── requirements.txt
 └── README.md
